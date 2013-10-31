@@ -1,0 +1,22 @@
+	
+文件夹1中
+	A.cs
+	A.Designer.cs
+	Form1.cs
+	Form1.Designer.cs
+	Program.cs
+
+文件夹3中
+	Citizen.cs
+	CitizenWindow.xaml.cs
+	Entity.cs
+	Form1.cs（与1中的同名同内容）
+	Form1.Designer.cs（与1中的同名但是内容不同）
+	Program.cs（与1中的同名但是内容不同）
+	selectCitizen.xaml.cs
+
+截图说明：
+	白色底代表两文件夹中同名同内容的文件
+	浅黄色底代表两文件夹中同名但是内容不同的文件
+	红色底代表右侧文件夹中有但是左侧没有的文件
+	蓝色底代表左侧文件夹中有但是右侧没有的文件
